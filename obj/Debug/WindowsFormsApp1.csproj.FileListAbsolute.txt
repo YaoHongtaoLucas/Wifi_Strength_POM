@@ -1,0 +1,13 @@
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\bin\Debug\ManagedWifi.dll
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\bin\Debug\Wifi_Signal_Strength.exe.config
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\bin\Debug\Wifi_Signal_Strength.exe
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\bin\Debug\Wifi_Signal_Strength.pdb
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\Wifi_Signal_Strength.Properties.Resources.resources
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\Wifi_Signal_Strength.exe
+E:\ECSE458 毕业设计\Design Project\SSID\WindowsFormsApp1\obj\Debug\Wifi_Signal_Strength.pdb

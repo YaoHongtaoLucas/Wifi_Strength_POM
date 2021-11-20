@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYyJ0gGZaw7CtCnzbqxneC1f3BVAuhcG/kEE7/EONinXmIFSCNrJEcqhmdrhV8i1nmD8M/1TanBG/BDhHLQ8xQ==",
+  "success": true,
+  "projectFilePath": "E:\\ECSE458 毕业设计\\Design Project\\SSID\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benoit\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.22000.196\\microsoft.windows.sdk.contracts.10.0.22000.196.nupkg.sha512",
+    "C:\\Users\\benoit\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\benoit\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\benoit\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

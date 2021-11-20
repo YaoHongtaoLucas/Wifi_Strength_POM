@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ECSE458 毕业设计\\Design Project\\SSID\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {}
+  },
+  "projects": {
+    "E:\\ECSE458 毕业设计\\Design Project\\SSID\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ECSE458 毕业设计\\Design Project\\SSID\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "projectName": "Wifi_Signal_Strength",
+        "projectPath": "E:\\ECSE458 毕业设计\\Design Project\\SSID\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\benoit\\.nuget\\packages\\",
+        "outputPath": "E:\\ECSE458 毕业设计\\Design Project\\SSID\\WindowsFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\benoit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.22000.196, )"
+            }
+          },
+          "imports": [
+            "uap10.0.22000"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
