@@ -15,7 +15,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        private WiFiAdapter nwAdapter;
+        //private WiFiAdapter nwAdapter;
 
         public Form1()
         {
@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
         {
             return Encoding.ASCII.GetString(ssid.SSID, 0, (int)ssid.SSIDLength);
         }
-        
+       /**
         async void Wifiadaptor()
         {
             var access = await WiFiAdapter.RequestAccessAsync();
@@ -63,7 +63,7 @@ namespace WindowsFormsApp1
             }
         
         }
-        
+        */
     private void Form1_Load(object sender, EventArgs e)
         {
             SSID();
